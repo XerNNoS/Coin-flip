@@ -28,7 +28,7 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/XerNNoS/Coin-flip/refs/heads/main/flip-the-coin-master/flip-the-coin.png)
+![screenshot](https://raw.githubusercontent.com/XerNNoS/Coin-flip/refs/heads/main/flip-the-coin.png)
 
 
 ### Built with
